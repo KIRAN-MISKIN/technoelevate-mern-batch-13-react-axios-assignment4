@@ -8,7 +8,7 @@ import { LoginConsumer } from "../context/loginContext";
 export const router = (
   <BrowserRouter>
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-      <Link className="navbar-brand text-primary" to="/">
+      <Link className="navbar-brand text-danger" to="/">
         VACCINE
       </Link>
       
